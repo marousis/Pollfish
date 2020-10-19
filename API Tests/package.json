@@ -1,0 +1,19 @@
+{
+  "name": "pollfish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  }
+}
